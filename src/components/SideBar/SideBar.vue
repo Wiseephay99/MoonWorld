@@ -33,7 +33,7 @@
       <img class="w-8 h-8" src="../../assets/logo.png" alt="logo" />
       <span class="text-2xl font-semibold">
         <span class="text-white">Moon</span>
-        <span class="text-primary">Light</span>
+        <span class="text-primary">World</span>
       </span>
     </RouterLink>
     <!-- nav  -->
