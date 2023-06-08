@@ -6,7 +6,7 @@
       class="block py-2 px-3 md:p-4 text-white font-bold uppercase"
       ><span class="font-semibold">
         <span class="text-white">Moon</span>
-        <span class="text-primary">Light</span>
+        <span class="text-primary">World</span>
       </span></RouterLink
     >
     <!-- button -->
