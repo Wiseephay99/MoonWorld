@@ -3,7 +3,7 @@ Not only does this website show film information, but you can also actually watc
 Inspired by this awesome project which is created with React: [https://github.com/fuocy/moonlight-films](https://github.com/fuocy/moonlight-films)
 To clone: npm install and npm run dev.
 ### Live Demo
-Demo website: [](https://vue-moonlight.vercel.app/)
+Demo website: [https://vue-moonlight.vercel.app/](https://vue-moonlight.vercel.app/)
 ### Movie sources
 The Movie Database API (TMDB)
 ### Main technology used
