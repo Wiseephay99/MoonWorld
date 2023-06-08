@@ -11,4 +11,4 @@ The Movie Database API (TMDB)
 -   Axios
 -   SwiperJS
 -   Vite
-###  If you like this project, give it a star and share it to your friends 
+
